@@ -16,7 +16,7 @@ contact:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: https://github.com/aboozarroosta
   gitlab:
   bitbucket:
   twitter: 
@@ -50,11 +50,11 @@ experiences:
 
         ...
 
-    - role: Backend Developer
+    - role: 
       time: 2017.03 - 2018.03
       company: First Company
       tag: Remote, part-time
-      location: Beijing
+      location: 
       details: |
         Experience in this company:
         + First
@@ -101,10 +101,10 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Tarbiat Modares University
+      time: 2014 - 2017
+      major: Electrical Engineering - Control Theory
+      degree: Master of Science
       details: |
         Experience in this university:
         + First
@@ -112,10 +112,10 @@ education:
 
         ...
 
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+    - university: Yazd University
+      time: 2009 - 2013
+      major: Electrical Engineering - Electronics
+      degree: Bachelor of  Science
       details: |
         Experience in this university:
         + First
@@ -127,16 +127,16 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
+    - name: Deep Learning Specialization by DeepLearning.AI
       authority: Coursera
-      time: 2020
-      link:
+      time: April 2020
+      link: https://www.google.com/url?sa=D&q=https://www.coursera.org/account/accomplishments/specialization/Z247PMV7A36K&ust=1633176300000000&usg=AOvVaw1aUWqoFsC7WQF0BLnkOFMH&hl=en&source=gmail
       details: |
         It's my Course Foo certificate by coursera.
-    - name: Course Bar
+    - name: Reinforcement Learning Specialization by University of Alberta
       authority: Coursera
-      time: 2020
-      link: https://www.google.com
+      time: March 2020
+      link: https://www.coursera.org/account/accomplishments/specialization/5GSLU23GGE4T
       details: |
 
 publications:
@@ -156,7 +156,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -187,7 +187,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -197,7 +197,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.

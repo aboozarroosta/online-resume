@@ -130,7 +130,7 @@ certificates:
     - name: Deep Learning Specialization by DeepLearning.AI
       authority: Coursera
       time: April 2020
-      link: https://www.google.com/url?sa=D&q=https://www.coursera.org/account/accomplishments/specialization/Z247PMV7A36K&ust=1633176300000000&usg=AOvVaw1aUWqoFsC7WQF0BLnkOFMH&hl=en&source=gmail
+      link: https://www.coursera.org/account/accomplishments/specialization/Z247PMV7A36K
       details: |
         It's my Course Foo certificate by coursera.
     - name: Reinforcement Learning Specialization by University of Alberta

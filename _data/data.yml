@@ -1,17 +1,17 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Aboozar Roosta
+  title: Researcher
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: roosta.aboozar@gmail.com
+  phone: +98-930-4120-776
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
   linkedin:
   googlescholar:
@@ -19,7 +19,7 @@ contact:
   github: github
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -38,11 +38,11 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Electrical Engineer
+      time: 2016.03 - Today
+      company: Luminiz Inc.
       tag:
-      location: Beijing
+      location: Tehran
       details: |
         Experience in this company:
         + First
@@ -166,18 +166,24 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Persian
       level: Native
     - idiom: English
       level: Professional
+    - idiom: French
+      level: Medium
+    - idiom: German
+      level: Beginner
 
 interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Cycling
       link:
-    - item: Cooking
+    - item: Running
+      link:
+    - item: Science Fiction
       link:
 
 evaluation:

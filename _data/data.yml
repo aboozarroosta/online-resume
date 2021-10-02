@@ -36,7 +36,7 @@ profile:
 
 experiences:
   display: true
-  title: Experiences
+  title: Experience
   items:
     - role: Electrical Engineer
       time: 2016.03 - Today
@@ -44,7 +44,7 @@ experiences:
       tag:
       location: Tehran
       details: |
-        + Management of Software systems, website and predicting sales by implementing statistical algorithms with Python Language.
+        + Data Analysis and Forcast
         + Setup, design and inspection of LED lights
         
     - role: 

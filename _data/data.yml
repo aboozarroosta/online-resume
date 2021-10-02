@@ -1,6 +1,6 @@
 basic:
   name: Aboozar Roosta
-  title: Researcher
+  title: Mobility Researcher
   avatar:
     display: false
     path: profile.png
@@ -25,10 +25,10 @@ contact:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
+    What should I write here? Let's wait a little bit.
     + First
     + Second
 
@@ -44,12 +44,9 @@ experiences:
       tag:
       location: Tehran
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
+        + Management of Software systems, website and predicting sales by implementing statistical algorithms with Python Language.
+        + Setup, design and inspection of LED lights
+        
     - role: 
       time: 2017.03 - 2018.03
       company: First Company

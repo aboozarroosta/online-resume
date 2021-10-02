@@ -42,20 +42,19 @@ experiences:
       time: 2016.03 - Today
       company: Luminiz Inc.
       tag:
-      location: Tehran
+      location: Tehran, Iran
       details: |
         + Data Analysis and Forcast
         + Setup, design and inspection of LED lights
-        
-    - role: 
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: 
+       
+    - role: Researcher
+      time: 2016.07 - 2016.09
+      company: Brandenburg University of Technology
+      tag: internship
+      location: Cottbus, Germany
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Simulation and analysis of ultrasound transducers
+        + Optimizing MATLAB code
 
         ...
 
